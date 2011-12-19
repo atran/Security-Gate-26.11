@@ -16,7 +16,7 @@ Inputs were all on a single Arduino 2560 Mega board. Serial communication was on
 Outputs
 -------
 
-Outputs were all on sepeate boards.
+Outputs were all on seperate boards.
 
 * Relay connected to fluorescent lights
 * Two LED Matrices (Sure Electronics 1624 5mm Red LED version)
